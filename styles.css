@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: lightpink;
+  }
+  h1 {
+    font-family:  cursive;
+    color: blue;
+    text-shadow: 2px 2px 2px yellow;
+    margin: 0.2em;
+  }
+  h2 {
+    font-family: 'Roboto', sans-serif;
+    margin: 1em 0 0.25em;
+  }
+  table, tr, td {
+    border: 1px dotted black;
+    background-color: whitesmoke;
+  }
+  table {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  input[type=number] {
+    width: 6em;
+  }
+  
+  form {
+    font-family: 'Roboto', sans-serif;
+  }
+  tr {
+    height: 20px;
+  }
+  td {
+    width: 20px;
+  }
+  .design_canvas{
+    text-shadow: 2px 2px 2px yellow;
+  }
+  .button{
+    background-color: thistle;
+  }
